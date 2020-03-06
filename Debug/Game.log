@@ -1,0 +1,35 @@
+﻿  control.c
+  end.c
+  GameStateManager.c
+  help.c
+  Level1.c
+D:\VS Code\Game\Source\Code\Level1.c(700,75): warning C4244: “函数”: 从“double”转换到“float”，可能丢失数据
+D:\VS Code\Game\Source\Code\Level1.c(700,128): warning C4244: “函数”: 从“double”转换到“float”，可能丢失数据
+D:\VS Code\Game\Source\Code\Level1.c(374,13): warning C4101: “pObj1”: 未引用的局部变量
+D:\VS Code\Game\Source\Code\Level1.c(1059,7): warning C4101: “strBuffer”: 未引用的局部变量
+D:\VS Code\Game\Source\Code\Level1.c(1061,9): warning C4101: “frameTime”: 未引用的局部变量
+  Level2.c
+  Level3.c
+  main.c
+  Math2D.c
+D:\VS Code\Game\Source\Code\Math2D.c(21,1): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\VS Code\Game\Source\Code\Math2D.c(22,1): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\VS Code\Game\Source\Code\Math2D.c(47,1): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\VS Code\Game\Source\Code\Math2D.c(48,1): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+  Matrix2D.c
+D:\VS Code\Game\Source\Code\Matrix2D.c(109,38): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\VS Code\Game\Source\Code\Matrix2D.c(110,38): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\VS Code\Game\Source\Code\Matrix2D.c(111,39): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\VS Code\Game\Source\Code\Matrix2D.c(112,38): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\VS Code\Game\Source\Code\Matrix2D.c(108,1): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\VS Code\Game\Source\Code\Matrix2D.c(123,31): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\VS Code\Game\Source\Code\Matrix2D.c(124,31): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\VS Code\Game\Source\Code\Matrix2D.c(125,32): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\VS Code\Game\Source\Code\Matrix2D.c(126,31): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  menu.c
+  Select.c
+  System.c
+  Vector2D.c
+  Win.c
+  正在生成代码...
+  Game.vcxproj -> D:\VS Code\Game\Debug\Game.exe

@@ -1,0 +1,236 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Source\Code\control.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Code\end.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Code\GameStateManager.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Code\help.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Code\Level1.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Code\Level2.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Code\Level3.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Code\main.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Code\Math2D.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Code\Matrix2D.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Code\menu.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Code\Select.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Code\System.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Code\Vector2D.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Code\Win.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Source\Include\3DPipelineTools.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Include\AECollision.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Include\AEEngine.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Include\AEExport.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Include\AEFrameRateController.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Include\AEGameStateMgr.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Include\AEGraphics.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Include\AEInput.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Include\AELineSegment2.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Include\AEMath.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Include\AEMtx33.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Include\AESystem.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Include\AETypes.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Include\AEUtil.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Include\AEVec2.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Include\Control.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Include\end.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Include\GameStateList.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Include\GameStateManager.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Include\help.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Include\Level1.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Include\Level2.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Include\Level3.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Include\Math2D.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Include\Matrix2D.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Include\menu.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Include\Select.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Include\System.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Include\Vector2D.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Include\Win.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Source\Include\Alpha_Engine.dll">
+      <Filter>头文件</Filter>
+    </None>
+    <None Include="Source\Include\glew32.dll">
+      <Filter>头文件</Filter>
+    </None>
+    <None Include="Source\Code\Alpha_Engine.dll">
+      <Filter>资源文件</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Library Include="Source\Include\Alpha_Engine.lib">
+      <Filter>头文件</Filter>
+    </Library>
+    <Library Include="Source\Code\Alpha_Engine.lib">
+      <Filter>资源文件</Filter>
+    </Library>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="Source\Include\AlphaGraphics.txt">
+      <Filter>头文件</Filter>
+    </Text>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="Source\Pictures\about.png">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="Source\Pictures\Background_Image.jpg">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="Source\Pictures\boss.png">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="Source\Pictures\boss2.png">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="Source\Pictures\end.png">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="Source\Pictures\enemy1.png">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="Source\Pictures\enemy2.png">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="Source\Pictures\enemy3.png">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="Source\Pictures\Gameover.jpg">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="Source\Pictures\Gamewin.jpg">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="Source\Pictures\Help_background.png">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="Source\Pictures\Return.png">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="Source\Pictures\Select.jpg">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="Source\Pictures\Select.png">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="Source\Pictures\ship.png">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="Source\Pictures\ship1.png">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="Source\Pictures\skill.png">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="Source\Pictures\start.png">
+      <Filter>资源文件</Filter>
+    </Image>
+  </ItemGroup>
+</Project>
